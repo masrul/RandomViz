@@ -1,3 +1,3 @@
 ## Vizualizing molecule in Blender/Python 
 
-![]("buky.jpg")
+![](buky.jpg)
